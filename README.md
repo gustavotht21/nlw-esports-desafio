@@ -1,10 +1,10 @@
 # NLW sPorts - Trilha Explorer - Desafio
-Desafio proposto pela plataforma ROckeatseat durante o evento Next Level Week
+Desafio proposto pela plataforma Rockeatseat durante o evento Next Level Week
 
 ![preview](./.github/preview.png)
 
 
-[//]: # (Adicionar o link para o site)
+[Clique aqui para acessar](https://gustavotht21.github.io/nlw-esports-desafio/)
 
 ## Tecnologias: 
 
